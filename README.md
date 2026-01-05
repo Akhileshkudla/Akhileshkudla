@@ -1,16 +1,30 @@
-## Hi there 👋
+# Hi, I’m Akhilesh 👋
 
-<!--
-**Akhileshkudla/Akhileshkudla** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Software Architect | .NET | Cloud | Kubernetes | Azure
 
-Here are some ideas to get you started:
+I design and build cloud-native backend systems with a strong focus on scalability,
+clean architecture, and developer productivity.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## Tech Stack
+
+- **Languages:** C#, .NET, Python
+- **Cloud:** Azure (AKS, ACR, Key Vault)
+- **DevOps:** Docker, Kubernetes, GitHub Actions, Azure DevOps
+- **Testing:** Playwright, xUnit, NUnit
+- **Architecture:** Microservices, Event-driven systems, Clean Architecture
+
+---
+
+## Current Focus
+
+- Kubernetes-native .NET services  
+- AI-assisted testing & automation  
+- Cloud architecture and platform engineering  
+
+---
+
+## Connect
+
+- LinkedIn: https://linkedin.com/in/akhileshkudla
